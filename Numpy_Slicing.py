@@ -21,3 +21,5 @@ b = arr[2:5].copy()
 b[1] = 10
 print(b)
 print("Array After Slice =",arr)
+
+
